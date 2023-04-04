@@ -9,7 +9,8 @@
 
 <hr size="50">
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoViniOliveira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoViniOliveira&layout=compact)](https://github.com/ThiagoViniOliveira/github-readme-stats)
 
 <div>
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
